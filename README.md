@@ -6,8 +6,8 @@ Mental health concerns are often expressed quietly through text such as chats, m
 This project focuses on building a safe and ethical AI-based chatbot that helps identify potential emotional risk patterns from user-provided text and provides supportive, non-judgmental feedback.  
 The goal is early awareness and responsible support, not diagnosis or treatment.
 
-## Live Application
-The live version of the project is available at:
+## Live Demo Application
+The live Demo version of the project is available at:
 
 https://safe-support-system.youware.app/
 
